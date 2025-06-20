@@ -10,7 +10,7 @@ A classic Tic-Tac-Toe game with an interactive GUI built using Tkinter and a pow
 - AI plays optimally — **you cannot win on hard difficulty**
 - Intelligent computer behavior (blocks your winning moves, takes chances, prioritizes center/corners)
 
-  ![MorseTranslatorPresentation](https://github.com/user-attachments/assets/d022a2cf-994b-4377-8c86-570663f264d3)
+![MorseTranslatorPresentation](https://github.com/user-attachments/assets/6d7b3341-a13b-4d67-8a2c-7c9388a93fc7)
 
 
 ## Installation
