@@ -15,15 +15,10 @@ A classic Tic-Tac-Toe game with an interactive GUI built using Tkinter and a pow
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/Graffydrakula/tictactoe.git
    cd tictactoe
-   ```
-2. (Optional) Create a virtual environment:
-    ```
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
    
 ## Running the Game
